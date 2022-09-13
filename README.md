@@ -10,4 +10,4 @@ Spring native test
 
 ## ref 
 * [Spring native document](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/)
-* [Spring native example] (https://codetinkering.com/spring-native-example/)
+* [Spring native example](https://codetinkering.com/spring-native-example/)
