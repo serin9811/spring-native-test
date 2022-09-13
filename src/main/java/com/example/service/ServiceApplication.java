@@ -45,7 +45,6 @@ public class ServiceApplication {
 @RequiredArgsConstructor
 class AvailabilityHttpController {
 	private final ApplicationContext context;
-
 	@GetMapping("/down")
 	void down() {
 		AvailabilityChangeEvent.publish(this.context, LivenessState.BROKEN);
